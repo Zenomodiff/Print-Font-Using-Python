@@ -1,7 +1,4 @@
-name = "ZENO"
-  
-# To take input from User
-# name = input("Enter your name: \n\n")
+name = input("Enter your name: \n\n")
   
 lngth = len(name)
 l = ""
